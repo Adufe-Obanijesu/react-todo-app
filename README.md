@@ -4,6 +4,9 @@ This is a simple todo app. You can add a todo and delete todo.
 You also have the option of selecting one or multiple todo using the checkbox
 You can also select all using the "select all" checkbox and perform the operation of deleting all todos.
 
+### Deploy Link
+The app has been deployed on netlify. Follow this link to check it out https://main--dazzling-biscotti-0536dd.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

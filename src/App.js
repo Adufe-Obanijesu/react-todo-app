@@ -65,7 +65,7 @@ const App = () => {
 
   return (
     <div className="App flex items-center justify-center h-screen bg-gradient-to-b from-blue-600 to-blue-800">
-      <div className="bg-white shadow-lg rounded-lg w-4/5 lg:1/2 h-4/5 p-6">
+      <div className="bg-white shadow-lg rounded-lg w-4/5 lg:w-1/2 h-4/5 p-6">
         <div className="flex flex-col h-full">
           <Input list={list} setList={setList} />
           <div className="grow overflow-hidden flex flex-col">
